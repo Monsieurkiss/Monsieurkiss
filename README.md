@@ -7,7 +7,7 @@
   
   <li>📂 Mon objectif actuel est d'alimenter mon <a href="https://" target="blank">Portfolio</a> (à venir...) 📂</li>
 
-  <li>🧠 Pour le moment je cherche à perfectionner mes connaissances en <strong>Javascript</strong>, après quoi je vais m'attaquer au <strong>Back-End</strong> 🧠</li>
+  <li>🧠 Pour le moment je cherche à perfectionner mes connaissances en <strong>Javascript</strong> et <strong>PHP</strong> 🧠</li>
 
   <li>🤝 Je collabore en ce moment sur un projet de groupe : <a href="https://" target="blank">The Wonder Coffee</a> (à venir...) 🤝</li>
 
