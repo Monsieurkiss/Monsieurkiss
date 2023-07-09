@@ -19,10 +19,13 @@
 
 </ul>
 
-<h3 align="left">Contact :</h3>
+<h3 align="left">Profil pro :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jimmy-darras-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lien LinkedIn jimmy-darras-dev" title="LinkedIn" height="30" width="40"/></a>
-<a href="https://dribbble.com/monsieurkiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Lien Dribbble Monsieurkiss" title="Dribbble" height="30" width="40" /></a>
+<!--
+<a href="https://dribbble.com/monsieurkiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Lien Dribbble Monsieurkiss" title="Dribbble" height="30" width="40" />
+-->
+</a>
 </p>
 
 <h3 align="left">Connaissances et compétences :</h3>
@@ -38,7 +41,7 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" title="Figma" width="40" height="40"/>
   </p>
 
-<!---
+<!--
 Monsieurkiss/Monsieurkiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
