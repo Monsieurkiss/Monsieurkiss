@@ -22,6 +22,7 @@
 <h3 align="left">Profil pro :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jimmy-darras-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lien LinkedIn jimmy-darras-dev" title="LinkedIn" height="30" width="40"/></a>
+<a href="https://github.com/Monsieurkiss" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Logo GitHub" title="GitHub" height="40" width="40" /></a>
 <!--
 <a href="https://dribbble.com/monsieurkiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Lien Dribbble Monsieurkiss" title="Dribbble" height="30" width="40" />
 -->
@@ -36,8 +37,7 @@
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Logo PHP" title="PHP" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Logo MySQL" title="MySQL" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Logo Bash" title="Bash" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" title="Git" width="40" height="40"/></a>
-  <a href="https://github.com/Monsieurkiss" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Logo GitHub" title="GitHub" height="40" width="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" title="Git" width="40" height="40"/></a>  
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" title="Figma" width="40" height="40"/>
   </p>
 
