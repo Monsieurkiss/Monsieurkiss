@@ -19,7 +19,7 @@
 
 </ul>
 
-<h3 align="left">Profil pro :</h3>
+<h3 align="left">Profils pro :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jimmy-darras-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lien LinkedIn jimmy-darras-dev" title="LinkedIn" height="30" width="40"/></a>
 <a href="https://github.com/Monsieurkiss" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Logo GitHub" title="GitHub" height="40" width="40" /></a>
