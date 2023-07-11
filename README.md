@@ -1,6 +1,6 @@
 
 <h2 align="center">Hey ! Je m'appelle Jim 🤘 ou encore Monsieurkiss sur certains réseaux</h2>
-<h3 align="center">🎓 Apprenti Web développeur 🎓 À la recherche d'un stage </h3>
+<h3 align="center">🎓 Apprenti Web développeur・À la recherche d'un stage 🎓</h3>
 <br>
 
 <ul>
