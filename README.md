@@ -1,6 +1,6 @@
 
 <h2 align="center">Hey ! Je m'appelle Jim 🤘 ou encore Monsieurkiss sur certains réseaux</h2>
-<h3 align="center">🎓 Apprenti Web développeur・À la recherche d'un stage 🎓</h3>
+<h3 align="center">🎓 Apprenti Web développeur 🎓</h3>
 <br>
 
 <ul>
@@ -11,12 +11,8 @@
 
   <li>🤝 Je collabore en ce moment sur un projet de groupe : <a href="https://" target="blank">The Wonder Coffee</a> (à venir...) 🤝</li>
 
-  <li> ⚠ Si vous avez des pistes pour un <strong>stage</strong> secteur <strong>Hauts-de-France</strong> n'hésitez pas, un coup de pouce serait très apprécié ! ⚠</li>
-  
   <li>✉ Vous pouvez me contacter par mail à cette adresse : <a href="mailto:jimmy.darras@gmail.com"><strong>jimmy.darras@gmail.com</strong></a> ✉</li>
   
-  
-
 </ul>
 
 <h3 align="left">Profils pro :</h3>
